@@ -26,7 +26,7 @@ The success of the project will be measured by the robot’s ability to:
 This project not only tests technical skills in algorithm implementation but also assesses problem-solving
 capabilities and understanding of autonomous robotic navigation principles.
 ## Results
-The full report is available as a pdf file in this repository namely, ```Report.pdf```
+The full report and the ```.py``` controller file are available in ```Report.pdf``` and ```./controllers/my_controller/my_controller.py```
 ### Breadth-first search (BFS)
 https://github.com/user-attachments/assets/db975450-22da-489b-b288-dc65eb1ed1c7
 ### Depth-first search (DFS)
