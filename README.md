@@ -21,7 +21,6 @@ The success of the project will be measured by the robot’s ability to:
   - Successfully navigates and maps the entire maze.
   - Demonstrate the chosen traversal algorithm’s effectiveness in real-time simulation.
   - Execute the traversal with minimal errors and without manual intervention.
-  - Returns to the start point of the maze.
 
 This project not only tests technical skills in algorithm implementation but also assesses problem-solving
 capabilities and understanding of autonomous robotic navigation principles.
