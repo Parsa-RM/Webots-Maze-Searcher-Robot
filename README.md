@@ -5,7 +5,7 @@ traversal algorithms using a simulated robotic environment in Webots 2023b. Stud
 program an e-puck robot to autonomously navigate and traverse the entirety of a given maze.
 Image below is the Maze in which the robot is supposed to traverse using two fundamental algorithms.
 
-IMAGE of the Maze
+![Map of the Maze](./Resources/maze.jpg)
 ## Searching Algorithms
 The project will focus on two fundamental algorithms:
 1. **Depth-First Search (DFS)**: This algorithm explores as far as possible along each branch before
@@ -28,6 +28,6 @@ capabilities and understanding of autonomous robotic navigation principles.
 ## Results
 The full report is available as a pdf file in this repository namely, ```Report.pdf```
 ### Breadth-first search (BFS)
-Video
+https://github.com/user-attachments/assets/db975450-22da-489b-b288-dc65eb1ed1c7
 ### Depth-first search (DFS)
-Video
+https://github.com/user-attachments/assets/f45a8ee7-8911-49b6-b142-783c702b9771
